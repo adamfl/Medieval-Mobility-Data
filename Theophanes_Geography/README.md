@@ -5,7 +5,7 @@ Project members: this should take place EVERY WEEK.
 
 For a general overview of our project, see [here] (http://travelerslab.research.wesleyan.edu/geography-and-narrative-in-the-chronicle-of-theophanes/)
 
-For specific discussion of our process and method, see [here] (hhttp://travelerslab.research.wesleyan.edu/tag/narrative-and-geography/)
+For specific discussion of our process and method, see [here] (http://travelerslab.research.wesleyan.edu/tag/narrative-and-geography/)
 
 As far as our current ongoing work, there are currently two branches of this project, hosted on Google Drive. 
 
