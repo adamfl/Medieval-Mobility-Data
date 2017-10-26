@@ -1,0 +1,133 @@
+Num,doc_type,Person,Adressee,Location,Country,Full Address,Latitude,Longitude,fix_date
+1,Chronicle,Pere el Cerimonios,,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,1/24/1336
+2,Missatgeria,Pere el Cerimonios,Pope,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,2/28/1336
+3,Comissio,Pere el Cerimonios,Ramon Boil,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,5/15/1336
+4,Comissio,Pere el Cerimonios,fra Miquel de Fraga,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,5/23/1336
+5,Ordre,Pere el Cerimonios,alcaid del castell de Corbera,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,10/12/1336
+6,Letter,Pere el Cerimonios,l'infant Jaume,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,10/19/1336
+7,Letter,Pere el Cerimonios,fra Dalmau de Cruilles,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,12/2/1336
+8,Letter,Pere el Cerimonios,vescomte de Rocaberti,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,1/10/1337
+9,Revocation,Pere el Cerimonios,,Gandesa,Spain,Gandesa Spain ,41.0524377,0.4372669,6/17/1337
+10,Cedula,Pere el Cerimonios,merino de Saragossa,Montalban,Spain,Montalban Spain ,40.8327391,-0.8002439,7/6/1337
+11,Letter,Pere el Cerimonios,consellers Galceran Marquet i Arnau Ballester,Daroca,Spain,Daroca Spain ,41.1144048,-1.4144344,9/19/1337
+12,Letter,Pere el Cerimonios,Francesc de Mataro,Daroca,Spain,Daroca Spain ,41.1144048,-1.4144344,10/2/1337
+13,Circular,Pere el Cerimonios,aljames de moros del regne de Valencia,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,12/13/1337
+14,Letter,Pere el Cerimonios,Jaume Cervia,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,1/28/1338
+15,Lletra dissimulada,Pere el Cerimonios,Bernat de Cancerch,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,3/4/1338
+16,Letter,Pere el Cerimonios,rei de Granada,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,3/10/1338
+17,Letter,Pere el Cerimonios,algutzir del rei de Granada,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,7/3/1338
+18,Letter,Pere el Cerimonios,Ramon de Ribelles,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,7/29/1338
+19,Nomenament,Pere el Cerimonios,"arquebisbe de Caller, Ramon Boil",Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,8/1/1338
+20,Instruccions,Pere el Cerimonios,"arquebisbe de Tarragona, Ferrer de Vilafranca, cavaller, i Jaume Calbet, doctor en lleis",Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,8/14/1338
+21,Ordre,Pere el Cerimonios,comanador de l'antiga casa del Temple a Borriana,Cabanes,Spain,Cabanes Spain ,40.1247556,0.0933686,9/20/1338
+22,Comissio,Pere el Cerimonios,"Ramon de Vilafranca, cambrer major de la reina",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,5/26/1339
+23,Memorial,Pere el Cerimonios,Berenguer de Codinachs i Bernat de Ripoll,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,5/29/1339
+24,Missatgeria,Pere el Cerimonios,almirall de Castella,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,5/29/1339
+25,Missatgeria,Pere el Cerimonios,papa,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,8/23/1339
+26,Letter,Pere el Cerimonios,infant Jaume d'Urgell,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,9/3/1339
+27,Letter,Pere el Cerimonios,almirall Jofre Gilabert de Cruilles,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/20/1339
+28,Letter,Pere el Cerimonios,reina Constança de Mallorca,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,1/4/1340
+29,Letter,Pere el Cerimonios,"infant Jaume, comte d'Urgell i procurador general",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,8/16/1340
+30,Informacio,Pere el Cerimonios amb el seu conseller Bernat de Boixadors,"infant Jaume, procurador general",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,8/18/1340
+31,Instruccions,Pere el Cerimonios,Pere de Montcada,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,9/23/1340
+32,Crida?,Pere el Cerimonios,veguer i batle de Vilafranca del Penedes,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/7/1340
+33,Ambaixada,Pere el Cerimonios,papa Benet [XII],Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/28/1340
+34,Ambaixada,Pere el Cerimonios,Alfons [XI] de Castella,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,1/8/1341
+35,Letter,Pere el Cerimonios,infant Pere de Ribagorça,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,1/22/1341
+36,Letter,Pere el Cerimonios,Huguet de Cardona,Monestir de Poblet,Spain,Monestir de Poblet Spain ,41.3807334,1.0835227,7/24/1341
+37,Missatgeria,Pere el Cerimonios,infant Pere de Ribagorça,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,10/11/1341
+38,Capitols,Pere el Cerimonios,rei de Castella,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,10/21/1341
+39,Carta rogatoria,Pere el Cerimonios,prohoms de Cartagena,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/4/1342
+40,Letter,Pere el Cerimonios,Ferrer de Canet,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/13/1342
+41,Comanda,Pere el Cerimonios,Berenguer de Manresa,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,7/1/1342
+42,Legacio,Pere el Cerimonios,vicealmirall Mateu Mercer,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,10/20/1342
+43,Instruccions,Pere el Cerimonios,administradors de l'Almoina i l'armada de Valencia,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/5/1343
+44,Ambaixada,secretari reial Mateu Adria,rei Felip [XI] i a la cort de França,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/5/1343
+45,Ordres,Pere el Cerimonios,vicealmirall Mateu Mercer,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/8/1343
+46,Letter,Pere el Cerimonios,jurats de Girona,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/11/1343
+47,Ordre,Pere el Cerimonios,administradors de l'Almoina del regne de Valencia,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/13/1343
+48,Letter,Pere el Cerimonios,vicealmirall Jaume Escriva,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/13/1343
+49,Letter,Pere el Cerimonios,vicealmiralls Jaume Escriva i Mateu Mercer,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,11/17/1343
+50,Letter,Pere el Cerimonios,infant Jaume,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,12/27/1343
+51,Letter,Pere el Cerimonios,vicealmirall Mateu Mercer,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,3/4/1344
+52,Letter,Pere el Cerimonios,procuradors de les rendes reials de Mallorca,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,3/24/1344
+53,Letter,Pere el Cerimonios,rei de Granada,Perpignan,France,Perpignan France ,42.6886591,2.8948332,8/9/1344
+54,Letter,Pere el Cerimonios,Jaume de Romani,Villefranche-de-Conflent,France,Villefranche-de-Conflent France ,42.586754,2.366525,8/29/1344
+55,Letter,Pere el Cerimonios,"Guillem de Bellera, governador del Rossello",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,9/18/1344
+56,Letter,Pere el Cerimonios,"Ramon de Barbera, castella i batle de Cotlliure",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,9/21/1344
+57,Letter,Pere el Cerimonios,"Guillem de Bellera, governador del Rossello",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/11/1344
+58,Letter,Pere el Cerimonios,governador del Rossello,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/28/1344
+59,Ordre,Pere el Cerimonios,governador del Rossello,Perpignan,France,Perpignan France ,42.6886591,2.8948332,12/4/1344
+60,Letter,Pere el Cerimonios,governador del Rossello,Perpignan,France,Perpignan France ,42.6886591,2.8948332,12/7/1344
+61,Ordre,Pere el Cerimonios,"Berenguer de Castellvell i Pere de Ciutadella, comissaris reials a Puigcerda",Perpignan,France,Perpignan France ,42.6886591,2.8948332,12/24/1344
+62,Letter,Pere el Cerimonios,pintor Ferrer Bassa,Perpignan,France,Perpignan France ,42.6886591,2.8948332,2/4/1345
+63,Guiage,Pere el Cerimonios,Violant de Vilaragut,Perpignan,France,Perpignan France ,42.6886591,2.8948332,3/3/1345
+64,Letter,Pere el Cerimonios,"Ramon de Barbera, capita i batle de Cotlliure",Perpignan,France,Perpignan France ,42.6886591,2.8948332,3/7/1345
+65,Letter,Pere el Cerimonios,"infant Jaume, comte d'Urgell",Perpignan,France,Perpignan France ,42.6886591,2.8948332,3/23/1345
+66,Letter,Pere el Cerimonios,ambaixadors a la cort papal,Perpignan,France,Perpignan France ,42.6886591,2.8948332,4/12/1345
+67,Doble carta i cedula secreta,Pere el Cerimonios,ambaixadors a la cort d'Avinyo,Perpignan,France,Perpignan France ,42.6886591,2.8948332,4/16/1345
+68,Ordre,Pere el Cerimonios,,Perpignan,France,Perpignan France ,42.6886591,2.8948332,4/23/1345
+69,Circular,Pere el Cerimonios,castellans dels castells del Rossello i del Cerdanya,Perpignan,France,Perpignan France ,42.6886591,2.8948332,5/8/1345
+70,Ordinacio,Pere el Cerimonios,,Perpignan,France,Perpignan France ,42.6886591,2.8948332,9/10/1345
+71,Ordinacio,Pere el Cerimonios ,,Perpignan,France,Perpignan France ,42.6886591,2.8948332,9/10/1345
+72,Claim,Pere el Cerimonios,,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,2/6/1346
+73,Letter,Pere el Cerimonios,rei de Granada,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,2/6/1346
+74,Letter,Pere el Cerimonios,rei de Granada,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,2/11/1346
+75,Public Announcement,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,4/8/1346
+76,Letter,Pere el Cerimonios,Arnau Destorrents,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,4/12/1346
+77,Letter,Pere el Cerimonios,Ramon de Totzo,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,5/10/1346
+80,Letter,Pere el Cerimonios,Arnau d'Erill,Monestir de Poblet,Spain,Monestir de Poblet Spain ,41.3807334,1.0835227,8/25/1346
+81,capitol,Pere el Cerimonios,Bartomeu Ferrar,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/1/1347
+82,Crida,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/22/1347
+83,Letter,Pere el Cerimonios,Ramon de Totzo,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/26/1347
+84,Ordre,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,3/16/1347
+85,Letter,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,3/23/1347
+86,Letter,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,4/7/1347
+87,Chronicle,Pere el Cerimonios,,Cabanes,Spain,Cabanes Spain ,40.1247556,0.0933686,5/12/1347
+88,Letter,Pere el Cerimonios,governador del Rossello,Lleida,Spain,Lleida Spain ,41.6175899,0.6200146,8/2/1347
+89,Announcement,Pere el Cerimonios,,Zaragossa,Spain,Zaragossa Spain ,41.6488226,-0.8890853,8/21/1347
+90,Letter,Pere el Cerimonios,Bernat de Torre,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/7/1349
+91,Chronicle,Pere el Cerimonios,,Peñíscola,Spain,Peñíscola Spain ,40.3593167,0.3654204,11/4/1352
+92,Chronicle,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/15/1353
+93,Chronicle,Pere el Cerimonios,,Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,6/5/1353
+94,Chronicle,Pere el Cerimonios,,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,8/20/1355
+95,Letter,Pere el Cerimonios,Pere Boil,Perpignan,France,Perpignan France ,42.6886591,2.8948332,8/3/1356
+96,Letter,Pere el Cerimonios,Ramon Serraller,Perpignan,France,Perpignan France ,42.6886591,2.8948332,8/8/1356
+97,Letter,Pere el Cerimonios,Jurats de Valencia,Perpignan,France,Perpignan France ,42.6886591,2.8948332,8/22/1356
+98,Disposicio,reina Elionor,,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/6/1356
+99,Letter,Pere el Cerimonios,Guillem de Bellera,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,2/27/1357
+100,Letter,Pere el Cerimonios,Pere Desbosch,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,3/9/1357
+101,Missatgeria,Pere el Cerimonios,Frederic III,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,3/15/1357
+102,Letter,Pere el Cerimonios,veguer de Barcelona,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,5/25/1357
+103,Letter,reina Elionor,prohoms de Lleida,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,6/23/1357
+104,Letter,Pere el Cerimonios,jurats de Mallorca,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,6/27/1357
+105,Circular,Pere el Cerimonios,ciutats i viles de la frontera valenciana i aragonesa,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,6/28/1357
+106,Letter,reina Elionor,Berenguer Carbonell,Carinyena,Spain,Carinyena Spain ,41.3370805,-1.2241497,8/13/1357
+107,Missatgeria,reina Elionor,rei del Marroc,Carinyena,Spain,Carinyena Spain ,41.3370805,-1.2241497,8/13/1357
+108,Letter,Pere el Cerimonios,"l'infant Pere, comte de Ribagorza",Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,2/27/1358
+109,Letter,Pere el Cerimonios,l'infant Jaume de Mallorca,Girona,Spain,Girona Spain ,41.9794005,2.8214264,6/8/1358
+110,Letter,Pere el Cerimonios,cardenal d'Arago,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,6/16/1358
+111,Letter,reina Elionor,l'infant Ferran,Girona,Spain,Girona Spain ,41.9794005,2.8214264,6/18/1358
+112,Letter,Pere el Cerimonios,l'arquebisbe de Tarragona,Perpignan,France,Perpignan France ,42.6886591,2.8948332,7/11/1358
+113,Letter,Pere el Cerimonios,"seus oncles, els infants Pere i Ramon Berengue, i als comtes d'Urgell i de Denia",Perpignan,France,Perpignan France ,42.6886591,2.8948332,7/14/1358
+114,Comissio,Pere el Cerimonios,Berenguer d'Abella,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,10/24/1358
+115,Ordre,Pere el Cerimonios,,La Almunia de Doña Godina,Spain,La Almunia de Doña Godina Spain ,41.4768441,-1.3746587,1/1/1359
+116,Circular,Pere el Cerimonios,"infants, barons, nobles i cavallers de Catalunya",Calatayud,Spain,Calatayud Spain ,41.3531678,-1.6468455,1/23/1359
+117,Comissio,Pere el Cerimonios,"Berenguer de Codinachs, mestre racional, i al jurista Arnau Joan",Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/24/1359
+118,Letter,Pere el Cerimonios,papa Innocenci VI; cardenal Nicolau Rossell,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/29/1359
+119,Letter,reina Elionor,bisbe de Girona,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,7/23/1359
+120,Letter,reina Elionor,l'infant Ferran,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,9/10/1359
+121,Ordre,Pere el Cerimonios,veguer de Lleida,Cervera,Spain,Cervera Spain ,41.6838422,1.2794744,11/5/1359
+122,Letter,Pere el Cerimonios,Jaume Desvilar,Borja,Spain,Borja Spain ,41.8337231,-1.5341785,3/23/1360
+123,Letter,Pere el Cerimonios,Bernat Descoll,Tortosa,Spain,Tortosa Spain ,40.8125777,0.5214423,4/1/1371
+124,Letter,Pere el Cerimonios,Bishop of Valencia,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,4/3/1373
+125,Letter,Pere el Cerimonios,Bernat Descoll,Sant Cugat,Spain,Sant Cugat Spain ,41.4526016,2.0763253,8/8/1375
+126,Letter,Pere el Cerimonios,Bernat Descavall,Tortosa,Spain,Tortosa Spain ,40.8125777,0.5214423,12/7/1382
+127,Letter,Pere el Cerimonios,Bernat Descoll,Vilanova i la Geltru,Spain,Vilanova i la Geltru Spain ,41.2151504,1.727446,7/13/1385
+128,Letter,Joan I,Bernat Descoll,Barcelona,Spain,Barcelona Spain ,41.3850639,2.1734035,3/6/1388
+129,Letter,Joan I,Berenguer Llobet,Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,10/18/1388
+130,Letter,Joan I,Berenguer Llobet,Monzon,Spain,Monzon Spain ,41.9157645,0.1928216,12/20/1388
+131,Letter,Joan I,Marti (brother),Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,2/24/1391
+132,Letter,Pere el Cerimonios,"Bernat, vescomte de Cabrera",Valencia,Spain,Valencia Spain ,39.4699075,-0.3762881,11/20/1343
+133,Missatgeria,Pere el Cerimonios,"Marti Aznarez de Casseda, Berenger de Codinachs",Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,8/6/1338
+134,Missatgeria,Pere el Cerimonios,"Marti Aznarez de Casseda, Berenger de Codinachs",Zaragoza,Spain,Zaragoza Spain ,41.6488226,-0.8890853,8/22/1338
