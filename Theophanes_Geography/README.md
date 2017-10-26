@@ -1,9 +1,9 @@
-Welcome to the Theophanes Geography Project. 
+**Welcome to the Theophanes Geography Project.**
 
 Currently this repository is simply for project members to upload archive copies of our ongoing "Year over Place" master file. 
 Project members: this should take place EVERY WEEK.
 
-For a general overview of our project, see <a=href "http://travelerslab.research.wesleyan.edu/geography-and-narrative-in-the-chronicle-of-theophanes/"> here </a>
+For a general overview of our project, see [here] (http://travelerslab.research.wesleyan.edu/geography-and-narrative-in-the-chronicle-of-theophanes/)
 
 For specific discussion of our process and method, see  <a=href "hhttp://travelerslab.research.wesleyan.edu/tag/narrative-and-geography/"> here </a>
 
@@ -16,5 +16,6 @@ Project members can access the (Drive) folder for the Manuscript-based analysis 
 https://drive.google.com/drive/folders/0B-j08xG1YbVwZGZQVi1LMTEydzg
 
 
-
+PS -- for tips on style in these readme files:
+https://guides.github.com/features/mastering-markdown/
 
