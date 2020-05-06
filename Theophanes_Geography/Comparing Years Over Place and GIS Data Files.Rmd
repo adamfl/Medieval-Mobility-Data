@@ -9,8 +9,8 @@ Importing packages and data
 
 ```{r}
 library(descr)
-GIS_Jesse <- read_excel("~/Downloads/Years_Place - Settlements GIS - 01_20.xlsx")
-load("/Users/rachelchung/Documents/Data Work Portfolio/Traveler's Lab (Torgerson)/Latest R Data Files/wide_settle.RData")
+#load GIS file
+#load Years Over Place file
 ```
 
 Checking if the settlement names and number of settlements are the same
