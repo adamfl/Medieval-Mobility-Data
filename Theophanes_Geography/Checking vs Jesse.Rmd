@@ -1,0 +1,50 @@
+---
+title: "Checking Against Jessie’s File"
+output: html_document
+---
+
+ROUND 1 - hello 
+
+```{r}
+library(descr)
+getwd()
+```
+
+
+```{r setup, include=FALSE}
+#import data
+gis_3 <- read_excel("~/Downloads/Years_Place - Settlements GIS (3).xlsx")
+yop_settle<- read_excel("~/Downloads/Copy of Years Over Place + Geo & Settlements Ver 2 (settlement only) - Torg 11.02.2019 (1).xlsx",sheet = "Years Over Place (updated)")
+
+#finding duplicates in place names
+gis_3$`Chronicle Name`[duplicated(gis_3$`Chronicle Name`)]
+yop_settle$Place_Name[duplicated(yop_settle$Place_Name)]
+
+#finding duplicates in years
+freq(duplicated(colnames(gis_3)))
+freq(duplicated(colnames(yop_settle)))
+ncol(gis_3[,12:541]) == ncol(yop_settle[,3:532]) #do both datasets have the same number of years?: YES
+
+#subsetting based on place names  
+yop_settle_2 <- subset(yop_settle, Place_Name %in% gis_3$`Chronicle Name`)
+gis_4 <- subset(gis_3, `Chronicle Name` %in% yop_settle$Place_Name)
+leftover_gis = subset(gis_3, !(`Chronicle Name` %in% yop_settle$Place_Name))
+nrow(gis_3) - nrow(gis_4) #dropped 15 results from the gis dataset
+nrow(yop_settle) - nrow(yop_settle_2) #dropped 1458 results from the yop_settle dataset
+nrow(yop_settle_2) == nrow(gis_4)
+
+gis_4[is.na(gis_4)] <- 0 #replacing all NAs with 0s 
+gis_4$row_sums <- rowSums(gis_4[,12:541]) #calculating row sums  
+#gis_4$col_sums <- colSums(gis_4[,12:541]) calculating columns sums 
+
+yop_settle_2[is.na(yop_settle_2)] <- 0 #replacing all NAs with 0s 
+
+both_names <- merge(gis_4[,c(2,542)],yop_settle_2[,1:2], by.x = "Chronicle Name", by.y = "Place_Name")
+names(both_names)[2]<-"GIS_Row_Sums"
+names(both_names)[3]<-"YOP_Row_Sums"
+both_names$same_freq <- both_names$GIS_Row_Sums == both_names$YOP_Row_Sums
+freq(both_names$same_freq)
+write.csv(both_names,"YOP_GIS_Collab.csv")
+```
+
+
