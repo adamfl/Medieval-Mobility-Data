@@ -3,6 +3,8 @@ title: "Comparing Years Over Place and GIS Data Files"
 output: html_document
 ---
 
+Author: Rachel Chung
+
 The purpose of this script is to check whether the Years Over Place Settlement R.Data file and GIS Google Sheet Data File have the same name settlement names and total instances. 
 
 Importing packages and data
