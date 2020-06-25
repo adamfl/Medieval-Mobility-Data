@@ -14,8 +14,7 @@ library(descr)
 #load GIS file
 #load Years Over Place file
 
-GIS_Jesse <- Years_Place_Settlements_GIS_01_20_yrplace
-
+GIS_Jesse <- read_excel("~/Documents/Data Work Portfolio/Traveler's Lab (Torgerson)/Medieval-Mobility-Data/Theophanes_Geography/Datasets/Years_Place_Settlements GIS - 06.2020 (1).xlsx")
 ```
 
 
@@ -37,8 +36,8 @@ subset(GIS_Jesse, !(`Chronicle Name` %in% wide_settle$Version_1_Names))
 Checking if the total instances are the same 
 
 ```{r}
-names(GIS_Jesse)[10]<-"GIS_TI"
-checking_TI <- merge(by.x = "Chronicle Name", by.y = "Version_1_Names" ,GIS_Jesse[,c(1,10)],wide_settle[,c(1,5)])
+names(GIS_Jesse)[20]<-"GIS_TI"
+checking_TI <- merge(by.x = "Chronicle Name", by.y = "Version_1_Names" ,GIS_Jesse[,c(1,20)],wide_settle[,c(1,5)])
 checking_TI$Total_Instance_Inconsistencies <- checking_TI$GIS_TI == checking_TI$Total_Instances
 
 #Bosphoros (Crimea) not same 
@@ -46,7 +45,7 @@ checking_TI$Total_Instance_Inconsistencies <- checking_TI$GIS_TI == checking_TI$
 
 Cell-by-cell comparison
 ```{r}
-
+wide_settle <- wide_settle[-c(106, 107, 273,294), ]
 year_inconsistency <- as.data.frame(wide_settle[,1])
 names(year_inconsistency)[1] <- "Item"
 year_inconsistency$Inconsistent_Years <- NA
@@ -59,13 +58,14 @@ GIS_Jesse <- GIS_Jesse[order(GIS_Jesse$`Chronicle Name`),]
 for (i in 1:nrow(wide_settle)){
   for (c in 6:ncol(wide_settle)){
     part1 = wide_settle[i,c]
-    part2 = as.data.frame(GIS_Jesse[i,c+5])
+    part2 = as.data.frame(GIS_Jesse[i,c+15])
     result = part1== part2
     if (result == FALSE){
-      cat(" Rachel Row & Column ", i, c, " --> ")
-      cat("Rachel Data Value:", part1, " | WL Data Value: ", part2[,1], "| Are values the same? = ", result, "\n")
+      cat(wide_settle[i,1], names(wide_settle[c]), " --> ")
+      cat("Rachel Data Value:", part1, " | Jesse Data Value: ", part2[,1], "\n")
       year_inconsistency[i,2] <- paste(year_inconsistency[i,2], ",",colnames(wide_settle[c]))
     }
   }
 }
+
 ```
