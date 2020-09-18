@@ -13,8 +13,7 @@ Importing packages and data
 library(descr)
 #load GIS file
 #load Years Over Place file
-
-GIS_Jesse <- read_excel("~/Documents/Data Work Portfolio/Traveler's Lab (Torgerson)/Medieval-Mobility-Data/Theophanes_Geography/Datasets/Years_Place_Settlements GIS - 06.2020 (1).xlsx")
+GIS_Jesse <- Years_Place_Settlements_GIS_06_2020_1_
 ```
 
 
@@ -28,7 +27,7 @@ wide_settle$Version_1_Names[duplicated(wide_settle$Version_1_Names)]
 #subsetting based on place names  
 nrow(GIS_Jesse)
 nrow(wide_settle)
-subset(wide_settle, !(Version_1_Names %in% GIS_Jesse$`Chronicle Name`)) # I don't have Utica 
+subset(wide_settle, !(Version_1_Names %in% GIS_Jesse$`Chronicle Name`)) 
 subset(GIS_Jesse, !(`Chronicle Name` %in% wide_settle$Version_1_Names))
 
 ```
@@ -39,13 +38,11 @@ Checking if the total instances are the same
 names(GIS_Jesse)[20]<-"GIS_TI"
 checking_TI <- merge(by.x = "Chronicle Name", by.y = "Version_1_Names" ,GIS_Jesse[,c(1,20)],wide_settle[,c(1,5)])
 checking_TI$Total_Instance_Inconsistencies <- checking_TI$GIS_TI == checking_TI$Total_Instances
-
-#Bosphoros (Crimea) not same 
 ```
 
 Cell-by-cell comparison
 ```{r}
-wide_settle <- wide_settle[-c(106, 107, 273,294), ]
+#wide_settle <- wide_settle[-c(106, 107, 273,294), ]
 year_inconsistency <- as.data.frame(wide_settle[,1])
 names(year_inconsistency)[1] <- "Item"
 year_inconsistency$Inconsistent_Years <- NA
